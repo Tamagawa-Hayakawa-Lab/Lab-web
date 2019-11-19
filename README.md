@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab-web
 
 > My glorious Nuxt.js project
@@ -20,3 +21,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# Lab-web
+Home Page
+>>>>>>> origin/master
