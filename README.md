@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lab-web
 
 > My glorious Nuxt.js project
@@ -19,9 +18,10 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+```bash
+# node version
+v11.0.1
+```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 =======
-# Lab-web
-Home Page
->>>>>>> origin/master
